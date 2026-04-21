@@ -1,0 +1,32 @@
+title: Vicennial Trace BBS
+originalAuthor: dallin1016
+description: 'Replaces Rainfell, Earthshaker, and Wayward Wind with Vicennial Trace, a KH 20th Anniversary Keyblade'
+assets:
+- name: chara/weapon/w01aq/00/w01aq00.pmo
+  method: copy
+  source:
+  - name: w01aq00.pmo
+- name: chara/weapon/w01aq/0s/w01aq0s.pmo
+  method: copy
+  source:
+  - name: w01aq00.pmo
+- name: chara/weapon/w01aq/10/w01aq10.pmo
+  method: copy
+  source:
+  - name: w01aq10.pmo
+- name: remastered/Item/Tm2/it200.tm2/-0.dds
+  method: copy
+  source:
+  - name: -0.dds
+- name: remastered/Item/Tm2/it200s.tm2/-0.dds
+  method: copy
+  source:
+  - name: -0s.dds
+- name: remastered/chara/weapon/w01aq/00/w01aq00.pmo/-0.dds
+  method: copy
+  source:
+  - name: -0tex.dds
+- name: remastered/chara/weapon/w01aq/10/w01aq10.pmo/-0.dds
+  method: copy
+  source:
+  - name: -0tex.dds
