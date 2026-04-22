@@ -15,26 +15,30 @@ assets:
   source:
   - name: w01aq10.pmo
 - name: arc/weapon/w01aq00.arc
-  method: bbsarc
+  method: copy
   source:
-  - name: w01aq00.pmo
-    method: copy
-    source:
-    - name: w01aq00.pmo
-- name: arc/weapon/w01aq00.arc
-  method: bbsarc
-  source:
-  - name: w01aq0s.pmo
-    method: copy
-    source:
-    - name: w01aq00.pmo
-- name: arc/weapon/w01aq00.arc
-  method: bbsarc
-  source:
-  - name: w01aq10.pmo
-    method: copy
-    source:
-    - name: w01aq10.pmo
+  - name: w01aq00.arc
+#- name: arc/weapon/w01aq00.arc
+#  method: bbsarc
+#  source:
+#  - name: w01aq00.pmo
+#    method: copy
+#    source:
+#    - name: w01aq00.pmo
+#- name: arc/weapon/w01aq00.arc
+#  method: bbsarc
+#  source:
+#  - name: w01aq0s.pmo
+#    method: copy
+#    source:
+#    - name: w01aq00.pmo
+#- name: arc/weapon/w01aq00.arc
+#  method: bbsarc
+#  source:
+#  - name: w01aq10.pmo
+#    method: copy
+#    source:
+#    - name: w01aq10.pmo
 - name: remastered/Item/Tm2/it200.tm2/-0.dds
   method: copy
   source:
