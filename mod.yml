@@ -21,10 +21,16 @@ assets:
     method: copy
     source:
     - name: w01aq00.pmo
+- name: arc/weapon/w01aq00.arc
+  method: bbsarc
+  source:
   - name: w01aq0s.pmo
     method: copy
     source:
     - name: w01aq0s.pmo
+- name: arc/weapon/w01aq00.arc
+  method: bbsarc
+  source:
   - name: w01aq10.pmo
     method: copy
     source:
